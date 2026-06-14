@@ -9,9 +9,9 @@ programa
 		leia(temp)
 
 		se(temp > 0){
-			escreva("A temperatura é positiva")
+			escreva("A temperatura é positiva.")
 		}senao{
-			escreva("A temperatura é negativa")
+			escreva("A temperatura é negativa.")
 		}
 	}
 }
