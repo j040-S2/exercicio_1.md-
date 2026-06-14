@@ -1,4 +1,3 @@
-# exercicio_1.md-
 1. Crie um arquivo exercicio_1.md e Informe o valor lógico (verdadeiro ou falso) para as
 proposições lógicas abaixo:
 a. (Verdadeiro) 2 * 4 == 24/3
